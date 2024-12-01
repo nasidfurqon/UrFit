@@ -27,3 +27,36 @@
     vertical-align: middle;
 }
 /* BODY */
+
+.content-1{
+    height: 620px;
+    width: auto;
+    background-image: url('/asset/bg-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FBFBFB;
+}
+
+.head-content-1{
+    font-size: 80px;
+    font-family: "Lora", serif;    
+}
+.head-content-2{
+    font-family: "Roboto Mono", monospace;  
+}
+.button{
+    margin: 15px;
+    color: #FBFBFB;
+    border: 2px solid #FBFBFB;
+    padding: 10px 25px;
+    border-radius: 25px;
+    font-size: 17px;
+    font-family: "Roboto Mono", monospace;  
+}
+
+.button:hover{
+    color: black;
+    border: 2px solid black;
+    background-color: #FBFBFB;
+}
