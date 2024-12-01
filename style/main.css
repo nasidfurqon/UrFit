@@ -1,0 +1,29 @@
+/* NAVBAR */
+.nav{
+    background-color: #FBFBFB;
+    width:auto;
+    height: 70px;
+    display: inline-block;
+    justify-content: space-between;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;   
+}
+.menu-nav{
+    display: inline;
+}
+.menu{
+    display:inline;
+}
+.logo{
+    width: 50px;
+    height: 35px;
+}
+
+.search-icon{
+    vertical-align: middle;
+}
+/* BODY */
